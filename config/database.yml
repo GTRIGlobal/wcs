@@ -18,7 +18,7 @@ staging:
   encoding: utf8
   database: wcs
   pool: 5
-  host: wcs.ckvm5xby4his.us-east-1.rds.amazonaws.com:3306
+  host: wcs.ckvm5xby4his.us-east-1.rds.amazonaws.com
   username: root
   password: Test1234
 
@@ -27,7 +27,7 @@ production:
   encoding: utf8
   database: wcs
   pool: 5
-  host: wcs.ckvm5xby4his.us-east-1.rds.amazonaws.com:3306
+  host: wcs.ckvm5xby4his.us-east-1.rds.amazonaws.com
   username: root
   password: Test1234
 
